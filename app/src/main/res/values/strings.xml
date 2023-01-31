@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ezeetap</string>
+    <string name="hello">Welcome to Maths Operations </string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="label">Enter number</string>
+    <string name="result">Result to your Maths Operation is </string>
+</resources>
